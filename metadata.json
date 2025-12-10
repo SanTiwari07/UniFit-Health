@@ -1,0 +1,8 @@
+{
+  "name": "UniFit Health",
+  "description": "A premium, AI-powered Student Health Operating System providing intelligent tracking for nutrition, hydration, fitness, and recovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
